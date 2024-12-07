@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Date: Tue, 3 Dec 2024 20:39:32 -0600
+Message-ID: <CAGgduwozJPqd+z-JdcM9hj+AyWjxZcmqbp=v4PTFjY-1UNV_rQ@mail.gmail.com>
+Subject: url-json
+From: Herbert Paz <herbertpaz97@gmail.com>
+To: Herbert Paz <herbertpaz97@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000000d17f5062868b1b6"
+
+--0000000000000d17f5062868b1b6
+Content-Type: text/plain; charset="UTF-8"
+
+https://api.github.com/users/mralexgray/repos
+
+--0000000000000d17f5062868b1b6
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><a href="https://api.github.com/users/mralexgray/repos" target="_blank">https://api.github.com/users/mralexgray/repos</a></div>
+
+--0000000000000d17f5062868b1b6--
